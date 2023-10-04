@@ -1,4 +1,4 @@
-![logo](https://github.com/Winkingroad/Winkingroad/blob/main/PB8ro82ZpZP2DJYqWdv8qwdFPnFdSQrixPMNvTU9D4q8UVKknKMnCKdFJNvWx3NRX9GVWLGu4kHJLoekRUFwFGGq7h37APRp2n7Ji4ocpxoYkpr9.gif)
+![logo](https://github.com/Winkingroad/Winkingroad/blob/main/paulo-brito-000.jpg)
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">Computer Science Engineering student, MERN Stack enthusiast, and avid competitive coder</h3>
 
