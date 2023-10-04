@@ -1,4 +1,4 @@
-![logo](https://github.com/Winkingroad/Winkingroad/blob/main/DALL%C2%B7E%202023-10-04%2023.18.57%20-%20a%20skull%20coding%20having%20a%20techy%20background%20ultra%20modern%20futuristic%20.png)
+![logo]([https://github.com/Winkingroad/Winkingroad/blob/main/DALL%C2%B7E%202023-10-04%2023.18.57%20-%20a%20skull%20coding%20having%20a%20techy%20background%20ultra%20modern%20futuristic%20.png](https://github.com/Winkingroad/Winkingroad/blob/main/PB8ro82ZpZP2DJYqWdv8qwdFPnFdSQrixPMNvTU9D4q8UVKknKMnCKdFJNvWx3NRX9GVWLGu4kHJLoekRUFwFGGq7h37APRp2n7Ji4ocpxoYkpr9.gif))
 
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">Computer Science Engineering student, MERN Stack enthusiast, and avid competitive coder</h3>
