@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **yash.srivastava1102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GpvxpoU8UjeABr_lgziSOMgC-svbfjBB/view?usp=drive_link](https://drive.google.com/file/d/1GpvxpoU8UjeABr_lgziSOMgC-svbfjBB/view?usp=drive_link)
-
 - ⚡ Fun fact **I once debugged a critical issue in my sleep and woke up with the solution – my dreams are coded!**
 
 <h3 align="left">Connect with me:</h3>
